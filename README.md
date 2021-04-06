@@ -1,3 +1,3 @@
 # New York Times
 
-![NYT](./images/Screenshot.png)
+![NYT](./images/Screenshot_2.png)
